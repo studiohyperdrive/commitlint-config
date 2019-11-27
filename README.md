@@ -9,9 +9,9 @@ Commitlint config used at [Studio Hyperdrive](https://hyperdrive.studio).
 ## Getting started ##
 
 ```sh
-# Install commitlint cli and conventional config
+# Install commitlint cli and the studiohyperdrive config
 npm install -D commitlint @studiohyperdrive/commitlint-config
 
-# Configure commitlint to use conventional config
+# Configure commitlint to use the studiohyperdrive config
 echo "module.exports = {extends: ['@studiohyperdrive/commitlint-config']}" > commitlint.config.js
 ```
