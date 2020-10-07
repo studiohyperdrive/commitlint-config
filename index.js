@@ -11,12 +11,15 @@ module.exports = {
 		'scope-case': [
 			2,
 			'always',
-			['lower-case', 'camel-case', 'kebab-case', 'pascal-case'],
+			[
+				'lower-case',
+				'pascal-case',
+			],
 		],
 		'subject-case': [
 			2,
 			'never',
-			['start-case', 'pascal-case'],
+			[],
 		],
 	},
 };
