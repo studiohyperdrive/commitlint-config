@@ -12,6 +12,7 @@ module.exports = {
 			2,
 			'always',
 			[
+				'upper-case',
 				'lower-case',
 				'pascal-case',
 			],
