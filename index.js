@@ -22,5 +22,6 @@ module.exports = {
 			'never',
 			[],
 		],
-	},
-};
+		"body-max-length": [0, "always"]
+	}
+}
