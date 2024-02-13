@@ -164,4 +164,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Intellij project folder
+.idea/
+
 # End of https://www.gitignore.io/api/osx,node,linux,windows
